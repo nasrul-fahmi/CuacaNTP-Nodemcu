@@ -5,7 +5,8 @@ Dilengkapi dengan suhu dan tanggal dari internet
 ## Wiring
 SCL = D1\
 SDA = D2\
-Jangan gunakan pin 3V karena kontras LCD akan redup Gunakan pin Vin dari NodeMCU ke I2C LCD, supaya daya LCD tidak kurang
+_Jangan gunakan pin 3V karena kontras LCD akan redup Gunakan pin Vin dari NodeMCU ke I2C LCD, supaya daya LCD tidak kurang_
+
 ![Wiring](https://tutorkeren.com/sites/default/files/gambar_inline/arduino_-_i2c_lcd_wiring_pengkabelan.jpg)
 
 ## Library
